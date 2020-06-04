@@ -22,14 +22,14 @@ title: Bill Su
 email: billbsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! My name is Bill Su and I am currently a Freshman living in Fremont, California. I attend MSJHS. Some of my hobbies include beekeeping and jazz trumpet.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://billsu.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: billbsu
 
 # Build settings
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 # Exclude from processing.
